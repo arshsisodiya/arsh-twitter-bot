@@ -10,7 +10,7 @@
 ### :star: Star us on GitHub — it helps!
 
 
-<p align="center"><img src=""></p>
+<p align="center"><img src="https://github.com/arshsisodiya/arsh-twitter-bot/blob/main/Readme%20images/screenshot.png"></p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
