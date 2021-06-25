@@ -19,7 +19,7 @@
 
 #### Clone the repo
 ```
-$ git clone
+$ git clone https://github.com/arshsisodiya/arsh-twitter-bot.git
 ```
 
 #### Install tweepy Python module
@@ -71,7 +71,7 @@ SLEEP_TIME = 300
 * Once the build is successful enable the Free Dynos option from Overview tab.
 
 ## :clap: And it's done!
-Feel free to **file a new issue** with a respective title and description on the the [Arsh-Twitter-Bot]() repository. If you already found a solution to your problem, **I would love to review your pull request**!
+Feel free to **file a new issue** with a respective title and description on the the [Arsh-Twitter-Bot](https://github.com/arshsisodiya/arsh-twitter-bot) repository. If you already found a solution to your problem, **I would love to review your pull request**!
 
 
 ## 📘&nbsp; License
