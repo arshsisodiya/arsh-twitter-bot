@@ -75,7 +75,7 @@ Feel free to **file a new issue** with a respective title and description on the
 
 
 ## 📘&nbsp; License
-The Girlscript Twitter Bot is released under the under terms of the [MIT License](LICENSE).
+The Twitter Bot is released under the under terms of the [MIT License](LICENSE).
 
 ## :heart: Credit
 [Chandrika Deb](https://github.com/chandrikadeb7)
