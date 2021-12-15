@@ -26,10 +26,9 @@ for tweet in tweepy.Cursor(api.search, q=QUERY).items():
 
         # Follow the user who tweeted
         #check that bot is not already following the user
-        if FOLLOW:
-            if not tweet.user.following:
-                tweet.user.follow()
-                print('Followed the user')
+        if FOLLOW and not tweet.user.following:
+            tweet.user.follow()
+            print('Followed the user')
 
         sleep(SLEEP_TIME)
 
